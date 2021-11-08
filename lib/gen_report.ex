@@ -55,7 +55,6 @@ defmodule GenReport do
     Map.merge(map1, map2, fn _key, other_map1, other_map2 ->
       merge_maps(other_map1, other_map2)
     end)
-    |> IO.inspect()
   end
 
   defp merge_maps(map1, map2) do
