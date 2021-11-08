@@ -1,0 +1,22 @@
+{
+  "excluded": [],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "build/1",
+      "file": "/home/guilherme/Documentos/images/Ignite_Elixir/DesafioElixirGerandoRelatoriosComParalelismo/test/gen_report_test.exs",
+      "line": 16,
+      "module": "Elixir.GenReportTest",
+      "test": "test build/1 When no filename was given, returns an error"
+    },
+    {
+      "describe": "build/1",
+      "file": "/home/guilherme/Documentos/images/Ignite_Elixir/DesafioElixirGerandoRelatoriosComParalelismo/test/gen_report_test.exs",
+      "line": 10,
+      "module": "Elixir.GenReportTest",
+      "test": "test build/1 When passing file name return a report"
+    }
+  ],
+  "skiped": []
+}
