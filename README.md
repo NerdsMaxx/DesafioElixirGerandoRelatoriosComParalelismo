@@ -6,3 +6,4 @@
 
 # Desafio 02 do módulo 02: Aprofundando os conceitos- Resolvido ;)
 
+![image](https://user-images.githubusercontent.com/69761459/144123976-a65fde83-092d-4d5a-a61e-fa86134b5ede.png)
